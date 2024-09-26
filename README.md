@@ -10,7 +10,7 @@ https://cookieclicker.blog
 https://paper-io.xyz
 <hr>
 
-<source type="image/webp" src="https://retrobowl-2.github.io/images/footer/footer-desktop.png">
+<img loading="lazy" src="https://retrobowl-2.github.io/images/footer/footer-desktop.png" /">
 
 **The Rise of Unblocked Games: A Deep Dive into Their Popularity and Impact**
 
